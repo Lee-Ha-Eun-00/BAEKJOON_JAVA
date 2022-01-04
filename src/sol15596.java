@@ -14,7 +14,6 @@ public class sol15596 {
             {
                 sum += a[i];
             }
-
             return sum;
         }
     }
