@@ -20,4 +20,5 @@ public class sol2588 {
         System.out.println(result3);
         System.out.println(result1+result2*10+result3*100);
     }
+
 }
